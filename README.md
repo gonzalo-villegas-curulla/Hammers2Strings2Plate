@@ -1,2 +1,2 @@
 # Hammers2Strings2Plate
-2 collisions hammer-string coupled with modal plate via simple stiffness spring
+Implementation of FD collisions (hammer-string) and couplings with a modal plate. Coupling term: spring-like stiffness controlled.
